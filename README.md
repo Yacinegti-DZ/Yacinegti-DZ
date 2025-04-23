@@ -1,16 +1,45 @@
-## Hi there 👋
+┌─────────────────────────────────────────────┐
+│          Yacine - ROM Developer             │
+│    Galaxy S20 / FE / Note Series Wizard     │
+└─────────────────────────────────────────────┘
 
-<!--
-**Yacinegti-DZ/Yacinegti-DZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📂 Projects Currently in Progress
+=================================
+📁 One UI 8 ROM (In Development) Port for S20 series (sd) / FE / Note 
+📁 GrapheneOS Port for S20 / FE / Note (sd /exynos)
+📁 ProjectMatrixx v15 (New ROM Build)
 
-Here are some ideas to get you started:
+🗂️ Published ROMs
+==================
+📁 ProjectMatrixx Android 14 (Unofficial)
+    ↪ https://xdaforums.com/t/4722929/page-7#post-90060763
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 iOS/OxygenOS Hybrid ROM ProjectMatrixx (Android 14, Snapdragon Only)
+    ↪ https://xdaforums.com/t/4722706/
+
+🧠 Collaboration
+================
+📂 Android-Artisan Org
+    ↪ Contributor on: HyperOS-S20x
+    ↪ Repo: https://github.com/Android-Artisan/HyperOS-S20x
+
+🛠️ Tools of Choice
+===================
+[✔] Android Studio
+[✔] Git & GitHub
+[✔] Bash / Batch / Fastboot
+[✔] Windows Modding
+[✔] Custom Recovery & Kernel Tweaking
+
+📊 GitHub Stats
+===============
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox)
+
+📟 XDA Profile
+==============
+🖱️ [YacineGTi on XDA Developers](https://xdaforums.com/m/yacinegti.12913557)
+
+🧬 Signature
+============
+`Developing clean ROMs with stable performance, useful features, and a retro soul.`
+
