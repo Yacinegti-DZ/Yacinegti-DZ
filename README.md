@@ -35,7 +35,7 @@
 
 📊 GitHub Stats
 ===============
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox)
+![Stats](https://github-readme-stats.vercel.app/api?username=Yacinegti-DZ&show_icons=true&theme=gruvbox)
 
 📟 XDA Profile
 ==============
