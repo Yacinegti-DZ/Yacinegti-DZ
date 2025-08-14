@@ -37,6 +37,9 @@
 ===============
 ![Stats](https://github-readme-stats.vercel.app/api?username=Yacinegti-DZ&show_icons=true&theme=gruvbox)
 
+
+### 👀 Total Watchers: <watchers_count>
+
 📟 XDA Profile
 ==============
 🖱️ [YacineGTi on XDA Developers](https://xdaforums.com/m/yacinegti.12913557)
