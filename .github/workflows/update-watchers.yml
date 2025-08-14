@@ -23,8 +23,8 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/<watchers_count>/${{ steps.watchers.outputs.count }}/g" README.md
-
+          BADGE="![Watchers](https://img.shields.io/badge/Watchers-${{ steps.watchers.outputs.count }}-blue?style=for-the-badge&logo=github)"
+          sed -i "s|![Watchers](https://img.shields.io/badge/Watchers-.*-blue?style=for-the-badge&logo=github)|$BADGE|" README.md
       - name: Commit & Push changes
         run: |
           git config --global user.name "github-actions[bot]"
