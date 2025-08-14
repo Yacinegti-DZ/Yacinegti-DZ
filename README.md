@@ -38,10 +38,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Yacinegti-DZ&show_icons=true&theme=gruvbox)
 
 
-### 👀 Total Watchers  
-![Watchers](https://img.shields.io/badge/Watchers-<watchers_count>-blue?style=for-the-badge&logo=github)
-📟 XDA Profile
-==============
+### 👀 Total Watchers: <watchers_count>
+
 🖱️ [YacineGTi on XDA Developers](https://xdaforums.com/m/yacinegti.12913557)
 
 🧬 Signature
