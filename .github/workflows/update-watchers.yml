@@ -1,0 +1,33 @@
+name: Update Watchers Count
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  update-watchers:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get Watchers Count
+        id: watchers
+        run: |
+          COUNT=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100" \
+            | jq '[.[].watchers_count] | add')
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          sed -i "s/<watchers_count>/${{ steps.watchers.outputs.count }}/g" README.md
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update watchers count"
+          git push
