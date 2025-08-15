@@ -49,7 +49,9 @@
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=Yacinegti-DZ&show_icons=true&theme=gruvbox)
 
-### 👀 Total Watchers: 6
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YacineGTI-DZ&style=for-the-badge" alt="Profile views" />
+</p>
 
 ## 🖱️ [Yacinegti on XDA Developers](https://xdaforums.com/m/yacinegti.12913557)
 
