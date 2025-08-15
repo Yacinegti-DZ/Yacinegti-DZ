@@ -21,7 +21,10 @@ jobs:
             | jq '[.[].watchers_count] | add')
           echo "count=$COUNT" >> $GITHUB_OUTPUT
 
-      - name: Update README
+     <p align="center">
+<img src="https://komarev.com/ghpvc/?username=YacineGTI-DZ&style=for-the-badge" alt="Profile views" />
+</p> - 
+  name: Update README
         run: |
           sed -i "s/<watchers_count>/${{ steps.watchers.outputs.count }}/g" README.md
           
