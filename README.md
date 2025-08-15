@@ -4,45 +4,57 @@
                           /senior member on xda 
                       └─────────────────────────────────────────────┘                        
 
-                      
-📂 Projects Currently in Progress
-=================================
-📁 One UI 8 ROM (In Development) Port for S20 series (sd) / FE / Note 
-📁 GrapheneOS Port for S20 / FE / Note (sd /exynos)
-📁 ProjectMatrixx v15 (New ROM Build)
 
-🗂️ Published ROMs
-==================
-📁 ProjectMatrixx Android 14 (Unofficial)
-    ↪ https://xdaforums.com/t/4722929/page-7#post-90060763
+## 📂 Current Projects
+---
+- **One UI 8 ROM Port** *(In Development)*  
+  ‣ For S20 Series (Snapdragon), FE, and Note Series
 
-📁 iOS/OxygenOS Hybrid ROM ProjectMatrixx (Android 14, Snapdragon Only)
-    ↪ https://xdaforums.com/t/4722706/
+- **One UI 7 ROM Port** *[(WIP)](https://github.com/Yacinegti-DZ/ExtremeROM-Kebab)*
+  ‣ For S20 Series (Snapdragon) and S21FE (Snapdragon)
 
-🧠 Collaboration
-================
-📂 Android-Artisan Org
-    ↪ Contributor on: HyperOS-S20x
-    ↪ Repo: https://github.com/Android-Artisan/HyperOS-S20x
+- **GrapheneOS Port**  
+  ‣ For S20 / FE / Note *(Snapdragon & Exynos)*
 
-🛠️ Tools of Choice
-===================
-[✔] Android Studio
-[✔] Git & GitHub
-[✔] Bash / Batch / Fastboot
-[✔] Windows Modding
-[✔] Custom Recovery & Kernel Tweaking
+- **ProjectMatrixx v15** *(New ROM Build)*
 
-📊 GitHub Stats
-===============
+
+## 🗂️ Published ROMs
+---
+- **ProjectMatrixx (Android 14 – Unofficial)**  
+  ↪ [XDA Thread](https://xdaforums.com/t/4722929/page-7#post-90060763)
+
+- **ProjectMatrixx Hybrid ROM (iOS/OxygenOS Style)**  
+  ↪ [XDA Thread](https://xdaforums.com/t/4722706/)  
+  *Snapdragon Only*
+
+
+## 🧠 Collaborations
+---
+- **ArtisanROM Organization**  
+  ‣ Contributor: *ExtremeROM-Ultra*  
+  ‣ Repo: [GitHub – ExtremeROM-Ultra](https://github.com/ArtisanROM/ExtremeROM-UltraLegacy)
+
+
+## 🛠️ Tools of the Trade
+---
+- ✔ Android Studio  
+- ✔ Git & GitHub  
+- ✔ Bash / Batch / Fastboot  
+- ✔ Windows Modding  
+- ✔ Custom Recovery & Kernel Tuning
+
+
+## 📊 GitHub Stats
+---
 ![Stats](https://github-readme-stats.vercel.app/api?username=Yacinegti-DZ&show_icons=true&theme=gruvbox)
-
 
 ### 👀 Total Watchers: 6
 
-🖱️ [YacineGTi on XDA Developers](https://xdaforums.com/m/yacinegti.12913557)
+## 🖱️ [Yacinegti on XDA Developers](https://xdaforums.com/m/yacinegti.12913557)
 
-🧬 Signature
-============
+---
+
+## 🧬 Signature
+---
 `Developing clean ROMs with stable performance, useful features, and a retro soul.`
-
