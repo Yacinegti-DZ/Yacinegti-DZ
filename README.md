@@ -10,7 +10,7 @@
 - **One UI 8 ROM Port** *(In Development)*  
   ‣ For S20 Series (Snapdragon), FE, and Note Series
 
-- **One UI 7 ROM Port** *[WIP](https://github.com/Yacinegti-DZ/ExtremeROM-Kebab)*
+- **One UI 7 ROM Port** *[(WIP)](https://github.com/Yacinegti-DZ/ExtremeROM-Kebab)*
   ‣ For S20 Series (Snapdragon) and S21FE (Snapdragon)
 
 - **GrapheneOS Port**  
